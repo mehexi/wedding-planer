@@ -63,3 +63,19 @@ section{
     margin-bottom: 25px;
 
 }
+footer{
+    padding: 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    background-color: #0B0D17;
+    color: #07FFEB;
+}
+footer>h1{
+    font-size: 18px;
+
+}
+footer img{
+    width: 150px;
+}
